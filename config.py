@@ -8,8 +8,8 @@ CheckingOrders_bot = '1335214898:AAHGooc6rp1V2jnLW-ZTLcpaP7WFRwT0U7c'
 CompletedOrders_bot = '1396245636:AAGdZ9JB1YKpC2gDBFBncAXcEth4-w1JrHY'
 
 DB_NAME = 'reshalaa_bot'
-DB_PASSWORD = 'Andrei123009'
+DB_PASSWORD = 'Andrei?123009'
 DB_HOST = 'localhost'
-DB_USER = 'root'
+DB_USER = 'andrei'
 __AdminPassword__ = 'Adminn'
 Owner_id = 420404892
